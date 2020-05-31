@@ -1,0 +1,23 @@
+first = input(f'First number:')
+second = input(f'Second number:')
+third = input(f'Third number:')
+
+first = int(first.strip())
+second = int(second.strip())
+third = int(third.strip())
+
+initial = (first + second)*third
+alt1 = (second + third)*first
+alt2 = (first + third)*second
+diff1 = alt1 - initial
+diff2 = alt2 - initial
+
+
+if (initial >= alt1) & (initial >= alt2):
+    print(f'\n\n************************\n************************\nKEEP :ezclap:\n************************\n************************\n\nYou will get x{initial} \n\nOther outcomes: \nx{alt1} \nx{alt2}')
+elif (initial <= alt1) & (initial <= alt2):
+    print(f'\n\n************************\n************************\nREROLL NOW\n************************\n************************\n\nCurrent outcome: \nx{initial} \n\nOther outcomes: \nx{alt1} \nx{alt2}')
+elif (diff1 + diff2) > 0: # relies on fact that none are equal
+    print(f'\n\n************************\n************************\nPROBABLY REROLL\n************************\n************************\n\nCurrent outcome: \nx{initial} \n\nOther outcomes: \nx{alt1} \nx{alt2}')
+else:
+    print(f'\n\n************************\n************************\nPROBABLY KEEP\n************************\n************************\n\nCurrent outcome: \nx{initial} \n\nOther outcomes: \nx{alt1} \nx{alt2}')
