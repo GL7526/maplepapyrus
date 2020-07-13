@@ -4,7 +4,7 @@
 </p>
 
 # Maple Papyrus
-Maple Papyrus is a minigame in the game Maplestory where you obtain 3 numbers sequentially from 1 to 16 to fit the format (a+b)\*c, where a, b, and c are numbers from 1 to 16. You can then either keep your current order or reroll the order.
+Maple Papyrus is a minigame in the game Maplestory where you obtain 3 numbers sequentially from 1 to 16 to fit the format (a+b)\*c, where a, b, and c are numbers from 1 to 16. You can then either keep your current order or reroll the order. The goal of this minigame is to get as high of a result as possible.
 The python script, maplepapyrus, lets you input the 3 numbers and tells you the best course of action to take.
 
 
@@ -39,6 +39,7 @@ The expected value would be the sum of these three values divided by 3, and with
 <br>
 However, there's also a chance that the user is willing to take risks, no matter what. An example of this is if someone rolls something like (1+16)\*15.
 <br>
+Their current outcome would be 255. If they reroll, they can either get the same value, 256, or 31. Logically, it would make sense to keep their current outcome because the potential loss greatly outweighs how much they can gain. However, for someone who may want to gamble for any potential gain, they can, and will reroll. Therefore, it may be better to have four different recommendations in the script.
 <!-- write out the values. increase of only 1 vs loss of ___ etc -->
 
 # **Work In Progress**
