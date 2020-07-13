@@ -34,7 +34,12 @@ You might have noticed that thanks to the commutative property of addition, we r
 (b+c)\*a
 
 These three values are initial, alt1, and alt2, in the script.
-
+<br>
+The expected value would be the sum of these three values divided by 3, and with this, we can tell the user to either keep or reroll their current value.
+<br>
+However, there's also a chance that the user is willing to take risks, no matter what. An example of this is if someone rolls something like (1+16)\*15.
+<br>
+<!-- write out the values. increase of only 1 vs loss of ___ etc -->
 
 # **Work In Progress**
 ## Currently, the python script is outdated because it was created at the release of the minigame, where I made some incorrect assumptions. I assumed that all 3 numbers are unique from each other and that we cannot obtain our current combination again upon rerolling.
