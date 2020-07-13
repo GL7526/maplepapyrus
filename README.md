@@ -25,7 +25,16 @@ Listed out, there are six possible combinations:
 <br>
 (c+b)\*a
 
-You might have noticed that thanks to the commutative property of addition, we really have only three possible outcomes.
+You might have noticed that thanks to the commutative property of addition, we really have only three possible outcomes:
+<br>
+(a+b)\*c
+<br>
+(a+c)\*b
+<br>
+(b+c)\*a
+
+These three values are initial, alt1, and alt2, in the script.
+
 
 # **Work In Progress**
 ## Currently, the python script is outdated because it was created at the release of the minigame, where I made some incorrect assumptions. I assumed that all 3 numbers are unique from each other and that we cannot obtain our current combination again upon rerolling.
