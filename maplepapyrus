@@ -9,6 +9,9 @@ third = int(third.strip())
 initial = (first + second)*third
 alt1 = (second + third)*first
 alt2 = (first + third)*second
+
+expval = (initial+alt1+alt2)/3
+
 diff1 = alt1 - initial
 diff2 = alt2 - initial
 
