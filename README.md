@@ -13,25 +13,26 @@ At it's core, Maple Papyrus just a simple game of combinatorics and statistics. 
 
 Listed out, there are six possible combinations:
 <br>
-(a+b)\*c
-<br>
-(a+c)\*b
-<br>
-(b+a)\*c
-<br>
-(b+c)\*a
-<br>
-(c+a)\*b
-<br>
-(c+b)\*a
+<ul>
+  <li>(a+b)*c</li>
 
+  <li>(a+c)*b</li>
+
+  <li>(b+a)*c</li>
+
+  <li>(b+c)*a</li>
+
+  <li>(c+a)*b</li>
+
+  <li>(c+b)*a</li>
+</ul>
 You might have noticed that thanks to the commutative property of addition, we really have only three possible outcomes:
 <br>
-(a+b)\*c
+(a+b)*c
 <br>
-(a+c)\*b
+(a+c)*b
 <br>
-(b+c)\*a
+(b+c)*a
 
 These three values are initial, alt1, and alt2, in the script.
 <br>
@@ -44,7 +45,9 @@ However, there's also a chance that the user is willing to take risks, no matter
 Their current outcome would be 255. If they reroll, they can either get the same value, 256, or 31. Logically, it would make sense to keep their current outcome because the potential loss greatly outweighs how much they can gain. However, for someone who may want to gamble for any potential gain, they can, and will reroll. Therefore, it may be better to have four different recommendations in the script.
 <br>
 <br>
-The two obvious recommendations should occur when the user already has either the highest or lowest possible outcome. If the person obtains the highest possible outcome, they should not reroll, and if the person obtains the lowest possible outcome, they should always reroll.
+The two obvious recommendations should occur when the user already has either the highest or lowest possible outcome. 
+<br>
+If the person obtains the highest possible outcome, they should never reroll, and if the person obtains the lowest possible outcome, they should always reroll.
 <br>
 The other two recommendations occur when the user obtains a middling value. It's not the highest possible one, nor the lowest possible one. This is where we use our previous logic and either: 
 <ul>
@@ -52,7 +55,7 @@ The other two recommendations occur when the user obtains a middling value. It's
   or
   <li>suggest to keep their current value if what they have is already above the expected value</li>
 </ul>
-  
+<!-- write about how these are only suggestions and allow the user to know that they can still reroll even though we say "should keep" or smth -->
 
 # **Work In Progress**
 ## Currently, the python script is outdated because it was created at the release of the minigame, where I made some incorrect assumptions. I assumed that all 3 numbers are unique from each other and that we cannot obtain our current combination again upon rerolling.
