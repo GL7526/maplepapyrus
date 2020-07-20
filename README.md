@@ -42,7 +42,8 @@ The expected value would be the sum of these three values divided by 3, and with
 However, there's also a chance that the user is willing to take risks, no matter what. An example of this is if someone rolls something like (1+16)\*15.
 <br>
 Their current outcome would be 255. If they reroll, they can either get the same value, 256, or 31. Logically, it would make sense to keep their current outcome because the potential loss greatly outweighs how much they can gain. However, for someone who may want to gamble for any potential gain, they can, and will reroll. Therefore, it may be better to have four different recommendations in the script.
-The two obvious recommendations are obvious. These two are when the user already has either the highest or lowest possible outcome.
+<br>
+The two obvious recommendations should occur when the user already has either the highest or lowest possible outcome. If the person obtains the highest possible outcome, they should not reroll, and if the person obtains the lowest possible outcome, they should always reroll.
 <!-- write out the values. increase of only 1 vs loss of ___ etc -->
 
 # **Work In Progress**
