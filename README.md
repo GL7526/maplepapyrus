@@ -28,12 +28,13 @@ Listed out, there are six possible combinations:
 </ul>
 You might have noticed that thanks to the commutative property of addition, we really have only three possible outcomes:
 <br>
-(a+b)*c
-<br>
-(a+c)*b
-<br>
-(b+c)*a
-
+<ul>
+  <li>(a+b)*c</li>
+  
+  <li>(a+c)*b</li>
+  
+  <li>(b+c)*a</li>
+</ul>
 These three values are initial, alt1, and alt2, in the script.
 <br>
 The expected value would be the sum of these three values divided by 3, and with this, we can tell the user to either keep or reroll their current value.
