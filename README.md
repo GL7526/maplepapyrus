@@ -53,6 +53,9 @@ The two obvious recommendations should occur when the user already has either th
 <br>
 If the person obtains the highest possible outcome, they should never reroll, and if the person obtains the lowest possible outcome, they should always reroll.
 <br>
+<br>
+<b>The less obvious recommendations</b>
+<br>
 The other two recommendations occur when the user obtains a middling value. It's not the highest possible one, nor the lowest possible one. This is where we use our previous logic and either: 
 <ul>
   <li>suggest to reroll if what they have is below the expected value</li>
