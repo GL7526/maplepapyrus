@@ -47,6 +47,8 @@ However, there's also a chance that the user is willing to take risks, no matter
 Their current outcome would be 255. If they reroll, they can either get the same value, 256, or 31. Logically, it would make sense to keep their current outcome because the potential loss greatly outweighs how much they can gain. However, for someone who may want to gamble for any potential gain, they can, and will reroll. Therefore, it may be better to have four different recommendations in the script.
 <br>
 <br>
+<b>The obvious recommendations</b>
+<br>
 The two obvious recommendations should occur when the user already has either the highest or lowest possible outcome. 
 <br>
 If the person obtains the highest possible outcome, they should never reroll, and if the person obtains the lowest possible outcome, they should always reroll.
