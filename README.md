@@ -66,7 +66,7 @@ The other two recommendations occur when the user obtains a middling value. It's
 </ul>
 <br>
 These suggestions allow the user to use their discretion in their choice, as we have already provided an objective recommendation.
-<!-- write about how these are only suggestions and allow the user to know that they can still reroll even though we say "should keep" or smth -->
+<!-- write about how these are only suggestions and allow the user to know that they can still reroll even though we say "should keep" or smth |||| well...not really objective recommendation. change that -->
 
 # **Work In Progress**
 ## Currently, the python script is outdated because it was created at the release of the minigame, where I made some incorrect assumptions. I assumed that all 3 numbers are unique from each other and that we cannot obtain our current combination again upon rerolling.
