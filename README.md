@@ -64,6 +64,8 @@ The other two recommendations occur when the user obtains a middling value. It's
   or
   <li>suggest to keep their current value if what they have is already above the expected value</li>
 </ul>
+<br>
+These suggestions allow the user to use their discretion in their choice, as we have already provided an objective recommendation.
 <!-- write about how these are only suggestions and allow the user to know that they can still reroll even though we say "should keep" or smth -->
 
 # **Work In Progress**
