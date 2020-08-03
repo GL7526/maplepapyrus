@@ -28,6 +28,7 @@ Listed out, there are six possible combinations:
 </ul>
 You might have noticed that thanks to the commutative property of addition, we really have only three possible outcomes:
 <br>
+
 <ul>
   <li>(a+b)*c</li>
   
