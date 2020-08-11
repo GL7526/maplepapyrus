@@ -70,3 +70,16 @@ These suggestions allow the user to use their discretion in their choice, as we 
 
 
 # How To Use The Script:
+<ol>
+  <li>Click on the "maplepapyrus" file</li>
+
+  <li> </li>
+
+  <li> </li>
+
+  <li> </li>
+
+  <li> </li>
+
+  <li> </li>
+</ul>
