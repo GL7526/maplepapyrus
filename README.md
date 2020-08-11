@@ -82,4 +82,4 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <li> </li>
 
   <li> </li>
-</ul>
+</ol>
