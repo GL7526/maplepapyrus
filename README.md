@@ -74,6 +74,8 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <li>Click on the "maplepapyrus" file</li>
 
   <li>Click on "Raw" on the top right</li>
+  <br>
+  <img src = "images/downloadpic1" width = 600>
 
   <li> </li>
 
