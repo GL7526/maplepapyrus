@@ -73,7 +73,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
 <ol>
   <li>Click on the "maplepapyrus" file</li>
 
-  <li> </li>
+  <li>Click on "Raw" on the top right</li>
 
   <li> </li>
 
