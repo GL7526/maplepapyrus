@@ -75,7 +75,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
 
   <li>Click on "Raw" on the top right</li>
   <br>
-  <img src = "images/downloadpic1.PNG" width = 600>
+  <img src = "images/downloadpic1.PNG" width = 1200>
 
   <li> </li>
 
