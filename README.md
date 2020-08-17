@@ -73,8 +73,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
 <ol>
   <li>Click on the "maplepapyrus" file</li>
 
-  <li>Click on "Raw" on the top right</li>
-  <br>
+  <li>Click on "Raw" on the top right:</li>
   <img src = "images/downloadpic1.PNG" width = 1200>
 
   <li> </li>
