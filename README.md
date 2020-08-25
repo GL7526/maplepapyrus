@@ -78,7 +78,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
 
   <li>Press "ctrl + s" or right click the page and click "Save as...":</li>
   <img src = "images/downloadpic2.PNG" width = 750>
-  <li> </li>
+  <li>A window will appear that will allow you to select where you want to save the file and change it's name. You can just click Save and it will download to your default downloads folder.</li>
 
   <li> </li>
 
