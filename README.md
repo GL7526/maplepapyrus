@@ -79,7 +79,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <li>Press "ctrl + s" or right click the page and click "Save as...":</li>
   <br>
   <img src = "images/downloadpic2.PNG" width = 750>
-  <li>A window will appear that will allow you to select where you want to save the file and change it's name. <br> You can change its downlaod destination or if you're confused or don't care, you can just click "Save" and it will download to your default downloads folder.</li>
+  <li>A window will appear that will allow you to select where you want to save the file and change it's name. <br> You can change its download destination or if you're confused or don't care, you can just click "Save" and it will download to your default downloads folder.</li>
   <br>
 
   <li>If you're on Windows 8 or 10, right click your Window's icon on the bottom left of your screen:</li>
