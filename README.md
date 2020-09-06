@@ -84,7 +84,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
 
   <li>If you're on Windows 8 or 10, right click your Window's icon on the bottom left of your screen:</li>
   <br>
-  <img src = "images/windowsicon.png">
+  <img src = "images/windowsicon.PNG">
 
   <li> </li>
 </ol>
