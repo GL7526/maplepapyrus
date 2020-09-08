@@ -86,5 +86,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <br>
   <img src = "images/windowsicon.PNG">
 
-  <li> </li>
+  <li>Click "Run":</li>
+  <br>
+  <img src = "images/clickrun.PNG">
 </ol>
