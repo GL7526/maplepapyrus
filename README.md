@@ -91,4 +91,8 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <li>Click "Run":</li>
   <br>
   <img src = "images/clickrun.png">
+  
+  <li>Type "cmd" to open the command prompt. Then click "OK":</li>
+  <br>
+  <img src = "images/typecmd.png">
 </ol>
