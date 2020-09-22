@@ -94,5 +94,5 @@ These suggestions allow the user to use their discretion in their choice, as we 
   
   <li>Type "cmd" to open the command prompt. Then click "OK":</li>
   <br>
-  <img src = "images/typecmd.png">
+  <img src = "images/typecmd.PNG">
 </ol>
