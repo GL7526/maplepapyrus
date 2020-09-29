@@ -98,5 +98,5 @@ These suggestions allow the user to use their discretion in their choice, as we 
   
   <li>Type "cd Downloads". If your file got downloaded to another folder, you will have to change directories to that folder instead:</li>
   <br>
-  <img src = "images/cdDownloads.PNG">
+  <img src = "images/cdDownloads.png">
 </ol>
