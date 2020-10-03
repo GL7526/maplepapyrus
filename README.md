@@ -96,7 +96,8 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <br>
   <img src = "images/typecmd.PNG">
   
-  <li>Type "cd Downloads" and then press "Enter". 
+  <li>Type "cd Downloads" and then press "Enter".
+  <br>
   If your file got downloaded to another folder, you will have to change directories to that folder instead:</li>
   <br>
   <img src = "images/cdDownloads.png">
