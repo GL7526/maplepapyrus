@@ -112,5 +112,6 @@ These suggestions allow the user to use their discretion in their choice, as we 
   
   <li>Type "python maplepapyrus.txt" and then press "Enter":
   <br>
+  <br>
   <img src = "images/runscript.png">
 </ol>
