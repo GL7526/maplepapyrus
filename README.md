@@ -91,19 +91,23 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <li>Click "Run":</li>
   <br>
   <img src = "images/clickrun.png">
+  <br>
+  <br>
   
   <li>Type "cmd" to open the command prompt. Then click "OK":</li>
   <br>
   <img src = "images/typecmd.PNG">
+  <br>
+  <br>
   
   <li>Type "cd Downloads" and then press "Enter".
   <br>
   If your file got downloaded to another folder, you will have to change directories to that folder instead:</li>
   <br>
-  <img src = "images/cdDownloads.png">
+  <img src = "images/cdDownloads.png">  
+  <br>
+  <br>
   
-  <br>
-  <br>
   <li>Type "python maplepapyrus.txt" and then press "Enter":
   <br>
   <img src = "images/runscript.png">
