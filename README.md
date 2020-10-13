@@ -114,4 +114,9 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <br>
   <br>
   <img src = "images/runscript.png">
+  
+  <li>Type your numbers then press enter for each number:
+  <br>
+  <img src = "images/yourinputs.png">
+  
 </ol>
