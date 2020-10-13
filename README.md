@@ -113,9 +113,12 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <li>Type "python maplepapyrus.txt" and then press "Enter":</li>
   <br>
   <img src = "images/runscript.png">
+  <br>
   
   <li>Type your numbers then press enter for each number:</li>
   <br>
   <img src = "images/yourinputs.png">
+  <br>
+  
   
 </ol>
