@@ -126,5 +126,5 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <br>
   <img src = "images/suggestion.PNG">
   <br>
-  Do note that this is just a suggestion
+  Do note that these outputs are just suggestions, unless they are not, like the one above. You can always act against the recommendations, but this is backed with math.
 </ol>
