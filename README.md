@@ -122,5 +122,6 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <br>
   <br>
   
+  <li>The script will then provide a suggestion on what to do
   
 </ol>
