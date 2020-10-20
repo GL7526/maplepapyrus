@@ -125,5 +125,6 @@ These suggestions allow the user to use their discretion in their choice, as we 
   <li>The script will then provide a suggestion on what to do:</li>
   <br>
   <img src = "images/suggestion.PNG">
-  
+  <br>
+  Do note that this is just a suggestion
 </ol>
