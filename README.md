@@ -10,7 +10,7 @@ The python script, maplepapyrus, lets you input the 3 numbers and tells you the 
 If you want to learn about the math and logic used in the script, you can go to [The Numbers](#thenumbers)
 
 
-# The Numbers (#thenumbers)
+# The Numbers <a name = "thenumbers"></a>
 At it's core, Maple Papyrus just a simple game of combinatorics and statistics. We can list out the possible combinations and assign the probabilities to get each of them, which luckily for us, seems to be equal. If our current combination is higher than the expected value of all the possible outcomes, then it is better to keep the current combination. Otherwise, we should reroll.
 
 Listed out, there are six possible combinations:
