@@ -45,7 +45,7 @@ These three values are initial, alt1, and alt2, in the script.
 The expected value would be the sum of these three values divided by 3, and with this, we can tell the user to either keep or reroll their current value.
 <br>
 
-### The Gamblers
+### The Gamblers <a name = "thegamblers"></a>
 However, there's also a chance that the user is willing to take risks, no matter what. An example of this is if someone rolls something like (1+16)\*15.
 <br>
 <br>
