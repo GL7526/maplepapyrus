@@ -11,7 +11,8 @@ The python script, maplepapyrus, lets you input the 3 numbers and tells you the 
   - Its subsection, [The Gamblers](#thegamblers), goes into when it's risky to go against the suggestion, but can still be worth it to <!-- LINK THE GAMBLERS AND ADD SPACES UNDER THIS -->
 
 
-
+<br>
+<br>
 
 # The Numbers <a name = "thenumbers"></a>
 At it's core, Maple Papyrus just a simple game of combinatorics and statistics. We can list out the possible combinations and assign the probabilities to get each of them, which luckily for us, seems to be equal. If our current combination is higher than the expected value of all the possible outcomes, then it is better to keep the current combination. Otherwise, we should reroll.
