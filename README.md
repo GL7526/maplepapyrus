@@ -75,7 +75,7 @@ These suggestions allow the user to use their discretion in their choice, as we 
 <!-- write about how these are only suggestions and allow the user to know that they can still reroll even though we say "should keep" or smth |||| well...not really objective recommendation. change that -->
 
 
-# How To Use The Script:
+# How To Use The Script: <a name = "howtouse"></a>
 <ol>
   <li>Click on the "maplepapyrus" file</li>
   <br>
