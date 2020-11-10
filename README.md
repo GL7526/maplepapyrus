@@ -9,7 +9,7 @@ The python script, maplepapyrus, lets you input the 3 numbers and tells you the 
 
 - If you want to learn about the math and logic used in the script, you can go to [The Numbers](#thenumbers)
   - Its subsection, [The Gamblers](#thegamblers), goes into when it's risky to go against the suggestion, but can still be worth it to <!-- LINK THE GAMBLERS AND ADD SPACES UNDER THIS -->
-
+- If you want to just learn how to use the script, go to the [how to use the script section] (#howtouse)
 
 <br>
 <br>
